@@ -13,7 +13,7 @@
 
 [6. Выводы](https://github.com/ArtemKutushev/sf_data_science/tree/main/project_0.README.md#Выводы)
 
-### Описание проекта]
+### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
 :arrow_up:[к оглавлению](https://github.com/ArtemKutushev/sf_data_science/tree/main/project_0.README.md#Оглавление)
