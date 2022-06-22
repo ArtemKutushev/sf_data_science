@@ -6,3 +6,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scentis
 * [Проект 0. Игра: Угадай число](https://github.com/ArtemKutushev/sf_data_science/blob/main/.vscode/game.py)
 * [Проект 1. ______](____)
 * [Проект 2. ______](____)
+
+## Ссылка на резюме
