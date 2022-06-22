@@ -3,7 +3,7 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scentis
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/ArtemKutushev/sf_data_science/blob/main/.vscode/game.py)
+* [Проект 0. Игра: Угадай число](https://github.com/ArtemKutushev/sf_data_science/tree/main/project_0)
 * [Проект 1. ______](____)
 * [Проект 2. ______](____)
 
