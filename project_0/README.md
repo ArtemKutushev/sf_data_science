@@ -37,3 +37,14 @@
 ....
 
 :arrow_up:[к оглавлению](https://github.com/ArtemKutushev/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+### Этапы работы над проектом
+....
+
+:arrow_up:[к оглавлению](https://github.com/ArtemKutushev/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+### Результаты:
+
+:arrow_up:[к оглавлению](https://github.com/ArtemKutushev/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+### Выводы
