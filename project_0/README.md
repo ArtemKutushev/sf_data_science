@@ -31,6 +31,8 @@
 
 **Что практикуем**
 Учимся писать хороший код на python
+Учимся работать с IDE
+Учимся работать с GITHUB
 
 
 ### Краткая информация о данных
@@ -39,7 +41,8 @@
 :arrow_up:[к оглавлению](https://github.com/ArtemKutushev/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
-....
+1. Составляем в VSC код таким образом, чтобы программа загадывала и угадывала число за менее 20 попыток
+2. 
 
 :arrow_up:[к оглавлению](https://github.com/ArtemKutushev/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
