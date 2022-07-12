@@ -41,13 +41,18 @@
 :arrow_up:[к оглавлению](https://github.com/ArtemKutushev/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
-1. Составляем в VSC код таким образом, чтобы программа загадывала и угадывала число за менее 20 попыток
-2. 
+1. Составляем в VS Code код таким образом, чтобы программа загадывала и угадывала число за менее 20 попыток
+2. Выкладываем её в GitHub в папке project_0 итоговый вариант под назанием game_v2final.py
 
 :arrow_up:[к оглавлению](https://github.com/ArtemKutushev/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Результаты:
+При использовании нашего кода компьютер угадывает загаданное число менее чем за 10 попыток. 
+Ссылка для проверки: https://github.com/ArtemKutushev/sf_data_science/blob/main/project_0/game_v2final.py
 
 :arrow_up:[к оглавлению](https://github.com/ArtemKutushev/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Выводы
+1. Первое знакомство с VS Code, настройке и умения использовать.
+2. Первое выкладывания проекта на GitHub. 
+3. Так же попробовал Jupiter Notebook
